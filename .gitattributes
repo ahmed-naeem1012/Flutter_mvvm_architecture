@@ -1,9 +1,1 @@
-*.h linguist-detectable=false
-*.rb linguist-detectable=false
-*.html linguist-detectable=false
-*.xib linguist-detectable=false
-*.storyboard linguist-detectable=false
-*.manifest linguist-detectable=false
-*.entitlements linguist-detectable=false
-*..properties linguist-detectable=false
-*.xc* linguist-detectable=false
+*.cmake linguist-detectable=false
