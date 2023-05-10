@@ -11,3 +11,4 @@ CMakeLists.txt linguist-detectable=false
 *..properties linguist-detectable=false
 *.xc* linguist-detectable=false
 Podfile linguist-detectable=false
+*.h linguist-detectable=false
