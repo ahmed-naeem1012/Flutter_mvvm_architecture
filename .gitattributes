@@ -12,5 +12,4 @@ CMakeLists.txt linguist-detectable=false
 *.xc* linguist-detectable=false
 Podfile linguist-detectable=false
 *.h linguist-detectable=false
-*.gradle linguist-detectable=false
 *.json linguist-detectable=false
